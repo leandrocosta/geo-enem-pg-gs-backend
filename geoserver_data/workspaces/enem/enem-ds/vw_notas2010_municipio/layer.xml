@@ -1,0 +1,35 @@
+<layer>
+  <name>vw_notas2010_municipio</name>
+  <id>LayerInfoImpl--2a9064c7:144ff5270f7:-7ffc</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--ce2ce52:14509a2673e:f9a</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl--2a9064c7:144ff5270f7:-7ff3</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--1a467088:14517eb9757:6a7c</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--1a467088:1451882592b:12e6</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--1a467088:1451882592b:12e4</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--ce2ce52:14509a2673e:f9a</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--1a467088:1451882592b:12e5</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--2a9064c7:144ff5270f7:-7ffd</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

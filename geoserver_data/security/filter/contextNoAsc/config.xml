@@ -1,0 +1,6 @@
+<contextPersistence>
+  <id>-7b471d72:144ff39f675:-7ff1</id>
+  <name>contextNoAsc</name>
+  <className>org.geoserver.security.filter.GeoServerSecurityContextPersistenceFilter</className>
+  <allowSessionCreation>false</allowSessionCreation>
+</contextPersistence>

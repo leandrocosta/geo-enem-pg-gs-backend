@@ -1,0 +1,15 @@
+<layer>
+  <name>lm_uf</name>
+  <id>LayerInfoImpl--2a9064c7:144ff5270f7:-7ff6</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--2a9064c7:144ff5270f7:-7ff4</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--2a9064c7:144ff5270f7:-7ff7</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

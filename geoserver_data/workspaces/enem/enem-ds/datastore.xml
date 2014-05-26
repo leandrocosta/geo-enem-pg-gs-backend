@@ -1,0 +1,22 @@
+<dataStore>
+  <id>DataStoreInfoImpl--2a9064c7:144ff5270f7:-7ffe</id>
+  <name>enem-ds</name>
+  <type>PostGIS (JNDI)</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl--2a9064c7:144ff5270f7:-8000</id>
+  </workspace>
+  <connectionParameters>
+    <entry key="dbtype">postgis</entry>
+    <entry key="encode functions">false</entry>
+    <entry key="jndiReferenceName">jdbc/PostgreSQLDS</entry>
+    <entry key="Support on the fly geometry simplification">true</entry>
+    <entry key="namespace">http://geo-enem.rhcloud.com/</entry>
+    <entry key="Loose bbox">true</entry>
+    <entry key="Expose primary keys">false</entry>
+    <entry key="fetch size">1000</entry>
+    <entry key="preparedStatements">false</entry>
+    <entry key="Estimated extends">true</entry>
+  </connectionParameters>
+  <__default>false</__default>
+</dataStore>

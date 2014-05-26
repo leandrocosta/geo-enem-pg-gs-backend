@@ -1,0 +1,31 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--2a9064c7:144ff5270f7:24f</id>
+  <name>notas2011_municipio_redacao_avg</name>
+  <mode>SINGLE</mode>
+  <workspace>
+    <id>WorkspaceInfoImpl--2a9064c7:144ff5270f7:-8000</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl--2a9064c7:144ff5270f7:-7ffa</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--2a9064c7:144ff5270f7:-7ff6</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--2a9064c7:144ff5270f7:-7ff2</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--2a9064c7:144ff5270f7:-7ff4</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-73.9985512098417</minx>
+    <maxx>-28.8402404789999</maxx>
+    <miny>-33.7499847870751</miny>
+    <maxy>5.27783224814002</maxy>
+    <crs>EPSG:4326</crs>
+  </bounds>
+</layerGroup>
